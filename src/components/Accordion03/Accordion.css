@@ -1,0 +1,8 @@
+
+.height{
+    height: 0;
+    overflow: hidden;
+}
+.height.active{
+    height: 50px;
+}
